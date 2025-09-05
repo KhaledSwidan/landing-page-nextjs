@@ -7,8 +7,8 @@ export function StructuredData() {
     '@context': 'https://schema.org',
     '@type': 'Organization',
     name: 'InnovateTech',
-    url: 'https://innovatetech.com',
-    logo: 'https://innovatetech.com/logo.png',
+    url: 'https://nxlandingpage.netlify.app/',
+    logo: 'https://nxlandingpage.netlify.app/_next/image?url=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F3861969%2Fpexels-photo-3861969.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26w%3D1200&w=1920&q=75',
     description: 'Leading provider of AI-powered business solutions',
     foundingDate: '2025',
     founder: {

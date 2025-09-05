@@ -16,13 +16,13 @@ export const metadata: Metadata = {
   publisher: 'InnovateTech',
   robots: 'index, follow',
   alternates: {
-    canonical: 'https://innovatetech.com',
+    canonical: 'https://nxlandingpage.netlify.app/',
   },
   openGraph: {
     title: 'InnovateTech - Transform Your Business with AI-Powered Solutions',
     description:
       'Leading provider of AI-powered business solutions. Increase efficiency by 300% with our cutting-edge technology.',
-    url: 'https://innovatetech.com',
+    url: 'https://nxlandingpage.netlify.app/',
     siteName: 'InnovateTech',
     images: [
       {
